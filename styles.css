@@ -1,0 +1,20 @@
+/* *{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+} */
+
+section {
+    padding: 60px 0;
+    font-size: 12px;
+}
+
+.cta {
+    font-size: 16px;
+}
+
+.bi-star-fill,
+.bi-star-half,
+.bi-stars {
+    color: rgb(230, 203, 49);
+}
